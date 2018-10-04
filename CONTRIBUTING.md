@@ -71,4 +71,4 @@ To get you started, some of the following links can be useful:
 
 - [Sublime](https://www.sublimetext.com/)
 - [Atom](https://atom.io/)
-- [VS Code] (https://code.visualstudio.com/)
+- [VS Code](https://code.visualstudio.com/)
